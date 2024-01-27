@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetGuardian", "NetGuardian\NetGuardian.csproj", "{5C281308-7602-42A9-85E0-04DE3C74E76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetGuardianTests", "NetGuardianTests\NetGuardianTests.csproj", "{C4F5B2FC-7410-4761-86AF-CAE1F3C386BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C281308-7602-42A9-85E0-04DE3C74E76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C281308-7602-42A9-85E0-04DE3C74E76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C281308-7602-42A9-85E0-04DE3C74E76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C281308-7602-42A9-85E0-04DE3C74E76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F5B2FC-7410-4761-86AF-CAE1F3C386BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F5B2FC-7410-4761-86AF-CAE1F3C386BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F5B2FC-7410-4761-86AF-CAE1F3C386BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F5B2FC-7410-4761-86AF-CAE1F3C386BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940C6510-84DF-4939-91E7-E21B1B747CF2}
+	EndGlobalSection
+EndGlobal
